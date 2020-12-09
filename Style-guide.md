@@ -11,14 +11,14 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Violet: hsl(257, 40%, 49%)
+- Violet: hsl(257, 50%, 40%)
 
 ## Typography
 
 ### Headings
 
 - Family: [Poppins](https://fonts.google.com/specimen/Poppins)
-- Weights: 400, 700
+- Weights: 400, 600
 
 ### Body
 
